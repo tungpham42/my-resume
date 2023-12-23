@@ -1,6 +1,6 @@
 import {
   faGithub,
-  faInstagram,
+  faFacebook,
   faLinkedin,
   faNpm,
   faTwitter,
@@ -9,27 +9,22 @@ import { CMSLink } from 'edit-me/types/CMSLink';
 
 export const links: CMSLink[] = [
   {
-    href: 'https://github.com',
+    href: 'https://github.com/tungpham42',
     icon: faGithub,
     title: 'GitHub',
   },
   {
-    href: 'https://www.instagram.com',
-    icon: faInstagram,
-    title: 'Instagram',
+    href: 'https://www.facebook.com/tungpham42',
+    icon: faFacebook,
+    title: 'Facebook',
   },
   {
-    href: 'https://www.linkedin.com',
+    href: 'https://www.linkedin.com/in/tungpham42',
     icon: faLinkedin,
     title: 'LinkedIn',
   },
   {
-    href: 'https://www.npmjs.com',
-    icon: faNpm,
-    title: 'NPM',
-  },
-  {
-    href: 'https://twitter.com',
+    href: 'https://twitter.com/tungpham42',
     icon: faTwitter,
     title: 'Twitter',
   },
